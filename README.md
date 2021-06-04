@@ -19,9 +19,16 @@
 
    
 
-## 개요
+## New branch
 
-1년간의 날씨데이터를 종합하여 ....
+1. 브랜치 생성: git branch '이름'
+
+2. 브랜치 삭제: git branch -d '실험'
+3. 브랜치 변경: git switch '실험'
+4. 브랜치 확인: git branch
+5. 브랜치 통합: git merge '실험'
+
+
 
 ## 역할
 
