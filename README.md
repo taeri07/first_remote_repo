@@ -24,15 +24,52 @@
 1. 브랜치 생성: git branch '이름'
 
 2. 브랜치 삭제: git branch -d '실험'
+
 3. 브랜치 변경: git switch '실험'
+
 4. 브랜치 확인: git branch
+
 5. 브랜치 통합: git merge '실험'
 
+6. 브랜치 추가 및 변경: git switch -c '실험'
+
+   
+
+![image-20210604114628512](README.assets/image-20210604114628512.png)
 
 
-## 역할
 
-## 핵심코드
 
-## 느낀점
+
+
+
+## ERROR 발생
+
+1. Switch master
+
+2. touch sos.py
+
+3. add . && commit -m 'msg'
+
+   
+
+## ERROR 후 Branch 합치기
+
+1. switch master
+2. merge 
+3. brange -d 
+
+## 그래프 그리기
+
+git log --oneline  --graph
+
+
+
+## commit msg 수정
+
+1. git commit --amend 
+
+2. 파이참  하단 > git >F2
+
+
 
