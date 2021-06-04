@@ -8,3 +8,4 @@ def new_feature():
     a=1+2
     print(a)
 
+print('오늘은 금요일')
