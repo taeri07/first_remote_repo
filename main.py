@@ -9,3 +9,7 @@ def new_feature():
     print(a)
 
 print('오늘은 금요일')
+
+
+def new():
+    print('new')
