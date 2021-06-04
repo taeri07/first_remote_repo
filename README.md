@@ -57,7 +57,7 @@
 
 1. switch master
 2. merge 
-3. brange -d 
+3. branch -d 
 
 ## 그래프 그리기
 
