@@ -12,4 +12,5 @@ print('오늘은 금요일')
 
 
 def new():
+    print('hi')
     print('new')
